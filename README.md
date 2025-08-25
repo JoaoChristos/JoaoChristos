@@ -11,7 +11,7 @@
 
 ## 🎓 Certificações
 
-[![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0c1b6d98-4abc-4f87-9383-27d2d5fac74c/image.png)](https://www.credly.com/badges/be0c5336-eaee-4761-a1b3-e0b9e0e8d288/public_url)
+[![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4f6c-4a02-b17c-3b3f88b7d4c0/image.png)](https://www.credly.com/badges/c00e2b50-3ea7-4ff2-b301-561e2988ffdc/public_url)
 [![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/be0c5336-eaee-4761-a1b3-e0b9e0e8d288/public_url)
 
 ---
