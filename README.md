@@ -2,10 +2,10 @@
 
 💻 **Cloud enthusiast em modo turbo**: AWS, Azure e tudo que envolva colocar sistemas pra rodar (e rodar bem).  
 ⚡ **Automatizador oficial de tarefas repetitivas** – se dá pra scriptar, eu vou tentar.  
-☸️ Explorando Kubernetes (aos tropeços, mas firme).  
-🔐 Segurança e conformidade não são “detalhes”, são prioridade.  
-📚 Sempre estudando algo novo – de arquitetura em nuvem até inglês.  
-🤣 Motto pessoal: "Se não sei, aprendo. Se já sei, provavelmente vou refazer até ficar melhor."
+☸️ **Explorando Kubernetes** (aos tropeços, mas firme).  
+🔐 **Segurança e conformidade** não são “detalhes”, são prioridade.  
+📚 **Sempre estudando algo novo** – de arquitetura em nuvem até inglês.  
+🤣 **Motto pessoal**: "Se não sei, aprendo. Se já sei, provavelmente vou refazer até ficar melhor."
 
 ---
 
